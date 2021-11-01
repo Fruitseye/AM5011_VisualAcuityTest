@@ -1,5 +1,5 @@
 # AM5011_VisualAcuityTest
-Distance from phone : 1m
+Distance from phone : 1m \
 Distance of Snellen Chart from AR camera: 1m
 ### Build settings:
 
